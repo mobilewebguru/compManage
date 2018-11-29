@@ -1,3 +1,0 @@
-<?php
-<head>aaa</head>
-?>
